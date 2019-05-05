@@ -1,5 +1,5 @@
 
-// PROBLEM 5 - FIBONACCI SEQUENCE COUNTER.
+// PROBLEM 6 - Custom Calculator.
 
 /* 
 The total terms here are 22 since it includes the first 0 and 1 and then the succeeding 20 terms.
